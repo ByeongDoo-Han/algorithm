@@ -4,12 +4,6 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class B_11053_가장긴증가수열 {
-    /*
-    11
-    67 154 11 237 200 248 197 44 128 157 161 201 193 171 127 35 211 166 10 197 203 6 243 183 182 92 222 89 163 3
-    1  2   1  3
-    4 3 4 2 1 1 1 4 3 2 1
-     */
 
     public static void main(String[] args) {
         solution();
